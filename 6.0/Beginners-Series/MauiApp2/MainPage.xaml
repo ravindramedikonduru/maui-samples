@@ -19,7 +19,7 @@
                Text="{Binding Text}"
                Grid.Row="1"/>
 
-        <Button Text="Add"
+        <Button Text="Add Here"
                 Command="{Binding AddCommand}"
                 Grid.Row="1"
                 Grid.Column="1"/>
