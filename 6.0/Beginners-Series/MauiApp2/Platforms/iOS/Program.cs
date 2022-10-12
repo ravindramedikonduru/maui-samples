@@ -6,6 +6,7 @@ namespace MauiApp2;
 public class Program
 {
 	// This is the main entry point of the application.
+	// Adding another comment
 	static void Main(string[] args)
 	{
 		// if you want to use a different Application Delegate class from "AppDelegate"
